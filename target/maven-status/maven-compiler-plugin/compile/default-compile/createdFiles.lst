@@ -1,0 +1,5 @@
+clientserver\RmqServer$1.class
+clientserver\RmqServer.class
+clientserver\HibernateUtil.class
+clientserver\MessageEntity.class
+clientserver\RmqClient.class
